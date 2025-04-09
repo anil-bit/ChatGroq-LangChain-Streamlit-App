@@ -2,7 +2,7 @@
 
 A lightning-fast AI chatbot powered by **Groq's LPU** and **LangChain RAG**, delivering real-time answers from web documents. Built with Python and Streamlit.
 
-![Demo GIF](assets/demo.gif) *(Add a short screen recording or screenshot)*
+
 
 ## 🌟 Features
 
